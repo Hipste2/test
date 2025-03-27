@@ -92,5 +92,4 @@ func main() {
 		zap.S().Info("注销失败")
 	}
 	zap.S().Info("注销成功")
-	fmt.Println("123123")
 }
